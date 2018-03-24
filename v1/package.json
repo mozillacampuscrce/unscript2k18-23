@@ -1,0 +1,18 @@
+{
+  "name": "v1",
+  "version": "1.0.0",
+  "description": "Creating a simple attendance system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aakash, Manas, Rishabh",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11"
+  }
+}
